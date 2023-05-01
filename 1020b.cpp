@@ -3,13 +3,13 @@ using namespace std;
  
 int second_hole;      
 vector<int> adj[1005];
-bool visited[1005];   // se aluno ja tinha um furo
+bool visited[1005];   				// se aluno ja tinha um furo
  
 void dfs(int u){  
 	
     visited[u] = true;
     for(int v : adj[u]){
-        if(visited[v]){      // achou ciclo? se sim, retorna aluno que teve segundo furo
+        if(visited[v]){      			// achou ciclo? se sim, retorna aluno que teve segundo furo
             second_hole = v;
             return;         
         }
@@ -28,7 +28,7 @@ int main(){
     int p;
     for(int i = 1; i <= n ; i++){
         cin >> p;
-        adj[i].push_back(p);     // faz lista de adj, ou seja, quem está culpando quem
+        adj[i].push_back(p);     		// faz lista de adj, ou seja, quem está culpando quem
     }
  
     for(int a = 1; a <= n; a++){                // vai fazer dfs no grafo começando pelo aluno a1 até an
