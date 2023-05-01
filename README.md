@@ -10,7 +10,7 @@
 | 19/0116498  |  Rodrigo Braz Ferreira Gontijo |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+O projeto consiste na resolução de 5 exercícos dos sites [LeetCode](https://leetcode.com/tag/graph/), [CodeForces](https://codeforces.com/problemset?tags=graphs#) e [Virtual Judge](https://vjudge.net/)
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
