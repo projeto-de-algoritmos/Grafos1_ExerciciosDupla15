@@ -31,7 +31,6 @@ O projeto consiste na resolução de 5 exercícos dos sites [LeetCode](https://l
 $ sudo apt update
 $ sudo apt install build-essential
 ```
-
 ## Uso 
 
 * Para os problemas do LeetCode (em linguagem C), é recomendado usar o editor de texto do próprio LeetCode, que está na página de cada problema.
