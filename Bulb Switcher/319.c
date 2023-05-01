@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/* VERS√O 2
+/* VERS√ÉO 2
 
 QUESTAO 319 DO LEETCODE
 
@@ -11,7 +11,7 @@ foi utilizado eh para evitar o uso de acentos
 a quantidade de divisores eh proporcional ao numero de "quadrados".
 Por exemplo: n = 4
 
-comeÁa aqui:    0  0  0  0
+come√ßa aqui:    0  0  0  0
 1o round:       1  2  3  4
 2o round:       1  0  3  0
 3o round:       1  0  0  0
@@ -45,7 +45,7 @@ int main() {
         for (int j = 1; j <= i; j++) {
             if (i % j == 0) {
                 divisores++;
-            } // VER AVISO NO COME«O DO C”DIGO
+            } // VER AVISO NO COME√áO DO C√ìDIGO
         }
         if (divisores % 2 == 1) {
             bulbs_on++;
