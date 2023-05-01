@@ -33,9 +33,24 @@ $ sudo apt install build-essential
 ```
 ## Uso 
 
-* Para os problemas do LeetCode (em linguagem C), é recomendado usar o editor de texto do próprio LeetCode, que está na página de cada problema.
+### Compilador Online
 
-* Para compilar os demais problemas em C++:
+* [Esse site](https://www.programiz.com/c-programming/online-compiler/) possui compilador e output para códigos em C e C++.
+
+### C
+
+* Para compilar os problemas em C:
+```
+$ gcc -o NomeCodigo NomeCodigo.c
+```
+* Após a compilação, para executar os problemas:
+```
+$ ./NomeCodigo
+```
+
+### C++
+
+* Para compilar os problemas em C++:
 ```
 $ g++ NomeCodigo.cpp 
 ```
