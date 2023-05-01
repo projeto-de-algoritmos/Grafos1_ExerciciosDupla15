@@ -3,6 +3,10 @@
 **Número da Lista**: 15<br>
 **Conteúdo da Disciplina**: Grafos 1<br>
 
+[Apresentação no YouTube](https://www.youtube.com/watch?v=NZV1dP7VrGc)
+
+[Arquivo mp4 da apresentação](apresentacao-grafos1.mp4)
+
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
