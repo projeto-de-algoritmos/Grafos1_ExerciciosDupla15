@@ -1,6 +1,6 @@
-# NomedoProjeto
+# Execícios de Grafos1
 
-**Número da Lista**: X<br>
+**Número da Lista**: 15<br>
 **Conteúdo da Disciplina**: Grafos 1<br>
 
 ## Alunos
